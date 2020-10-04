@@ -1,7 +1,5 @@
 ---
-title: Milestone 2
-layout: template
-filename: Milestone2.md
---- 
+layout: default
+---
 
 ### This is a test.

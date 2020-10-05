@@ -4,7 +4,24 @@ layout: default
 
 ## What is the problem we're trying to solve?
 
-The problem we are hoping to improve involves collaboration through zoom regarding more STEM related fields. In most situations, there is not an apparent way for users to collaborate on zoom apart from one user screen sharing and the rest of the participants using only voice and chat to provide their ideas. This is not sufficient for some situations where more complicated ideas/topics are being discussed. To combat this, we were thinking of implementing a collaborative whiteboard where all people in a zoom meeting can access and draw on a virtual white board. 
+The problem we are hoping to improve involves collaboration through zoom regarding more STEM related fields. In most situations, there is not an apparent way for users to collaborate on zoom apart from one user screen sharing and the rest of the participants using only voice and chat to provide their ideas. This is not sufficient for some situations where more complicated ideas/topics are being discussed. To combat this, we were thinking of implementing a collaborative whiteboard where all people in a zoom meeting can access and draw on a virtual white board.
+
+### A Typical Interaction using the Seven Stages of Action
+**Goal**: During a zoom meeting, a study group needs to do math problems together.  
+
+**Plan**: Once in the zoom meeting, find some medium in which they can work on the math problem together.  
+
+**Specify**: The group can specify which math problems to do and on what software.  
+
+**Perform**: They will open zoom’s whiteboard with minimal functions or open another software to do these problems. Zoom’s whiteboard is not robust enough and having to open another software is not desirable.  
+
+**Perceive**: After having opened a software for a whiteboard, the group will likely perceive that they may have wasted time to do this.  
+
+**Interpret**: If the users have completed their task, because there is not an optimal whiteboard on zoom, the group may have wasted time to get a collaborative whiteboard to work and have had minimal time doing the problems together.  
+
+**Compare**: Depending if the users have completed the task, they could then compare their goal of completing math problems as a group to the reality if they did or not.  
+
+We believe this interaction is typical because due to Covid-19 and remote work, many groups need to be able to have more collaboration than just voice and video chat. Without a more convenient collaborative whiteboard available, time would be wasted finding and using a different software.
 
 ## What is our target audience?
 
@@ -25,11 +42,21 @@ Zoom is aware of the benefit of having a collaborative whiteboard feature on its
 - There is also a lack of history of changes.
 - Recently added the ability for voice and video call but not optimized.
 
+### Mural
+
+**Pros**
+- You can work offline and then share the whiteboard online with real time meetings. 
+- Not just a virtual whiteboard, but more a diverse collaborative tool to help with organization and design thinking.
+
+**Cons**
+- There is a slight learning curve.
+- Can’t identify participants that join to be visitors or collaborators.
+
 ## What are our guidelines?
 
 The guidelines of a solution depends on the target audience. For instance Zoom, it’s quite obvious that they were looking to target a classroom with their implementation. Their focus was upon ease of use rather than robust features, and it’s even mentioned in their tutorial on it’s usage. On the other hand, Miro is trying to target a working audience by having all of its large toolset and integrations into very popular tools used in the field such as Slack, Dropbox, and JIRA. For our solution we would prefer our solution to be a compromise of the two. Zoom’s implementation is not robust enough for some topics covered in college. Miro’s implementation isn’t simple enough to use, and isn’t well-integrated with tools that a student would use such as Zoom.
 
-## Our Suggested Improvements
+## Our Suggested Improvements to Zoom's Implementation
 - Provide backgrounds of various colors.
 - Add ability to add and work with images.
 - Ability to limit who can draw on the whiteboard.

@@ -22,15 +22,34 @@ layout: default
 
 This design focuses on adding an additional option in zoom to start a new whiteboard meeting on the homepage. Rather than the whiteboard being an extension of a normal zoom meeting, we wanted to separate them and isolate the importance of a whiteboard dominant meeting. We feel that this will provide greater visibility to those seeking the specific feature. Additionally, there is an easy method of adding members to the whiteboard session based on email/username. Once members are added to the session, they can easily be differentiated by color coding them similar to the collaborative view in Google Docs as an example.
 
+### Wireframe 2
 ![Wireframe 2](https://xmaize.github.io/Remote-Whiteboard/images/Wireframe2.PNG)
 
 Our second design focuses on the ability to switch between call mode and whiteboard mode with a simple press of a button. This button then switches all participants over to the whiteboard where they can each still be seen as indicated by the icons on the right side of the view.
 
+### Wireframe 3
 ![Wireframe 3](https://xmaize.github.io/Remote-Whiteboard/images/Wireframe3.PNG)
 
 The third design really hones in on the importance of improving on the editing tools within the whiteboard. The options currently available hinder the usability of a whiteboard feature within a video conference application such as zoom, and our solution outlines additional editing features to be added to the whiteboard. On top of the simple tools such as color, shapes, and background, the user can now import images/videos, link important URLs, and even import information from other saved whiteboards. Lastly, we wanted to emphasize the importance of being able to adjust the permissions of participants during a whiteboard session. As an example, this change can allow teachers to remain focused, while offering individual students opportunities to collaborate in front of the class as it would be in a classroom setting.
 
 ## Detailed Designs
+### Zoom Whiteboard
+![Mockup 1](https://xmaize.github.io/Remote-Whiteboard/images/Mockup1.PNG)
+
+### Colors
+![Mockup 2](https://xmaize.github.io/Remote-Whiteboard/images/Mockup2.PNG)
+
+### Shapes
+![Mockup 3](https://xmaize.github.io/Remote-Whiteboard/images/Mockup3.PNG)
+
+### Background
+![Mockup 4](https://xmaize.github.io/Remote-Whiteboard/images/Mockup4.PNG)
+
+### Import
+![Mockup 5](https://xmaize.github.io/Remote-Whiteboard/images/Mockup5.PNG)
+
+### Permissions
+![Mockup 6](https://xmaize.github.io/Remote-Whiteboard/images/Mockup6.PNG)
 
 ## Summary Video
 

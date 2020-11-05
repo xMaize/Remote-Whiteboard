@@ -72,4 +72,5 @@ The guidelines of a solution depends on the target audience. For instance Zoom, 
 - Learning curve needs to be measured as it needs to be easy to learn for children, but also complex enough to be used by people in the STEM fields.
 
 [Recording of presentation.](https://www.youtube.com/watch?v=DwGFqrGzRZE&feature=youtu.be)
+
 [Home](./index.html)

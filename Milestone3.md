@@ -33,3 +33,5 @@ The third design really hones in on the importance of improving on the editing t
 ## Detailed Designs
 
 ## Summary Video
+
+[Home](./index.html)

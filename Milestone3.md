@@ -51,6 +51,8 @@ The third design really hones in on the importance of improving on the editing t
 ### Permissions
 ![Mockup 6](https://xmaize.github.io/Remote-Whiteboard/images/Mockup6.PNG)
 
+[Adobe XD Link](https://xd.adobe.com/view/39ad356e-5a04-4643-8dba-48ff17ab6c18-6cfe/)
+
 ## Summary Video
 
 [Home](./index.html)

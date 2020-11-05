@@ -56,6 +56,7 @@ Our group chose alternative design 3. This is because it is the design that fits
 
 [Milestone 3 Mockup Download](./Milestone3Mockup.xd)
 
-## Summary Video
+### Summary Video
+[Link to Summary Video](https://youtu.be/NisCvGIHnCA)
 
 [Home](./index.html)

@@ -2,8 +2,8 @@
 layout: default
 ---
 
-### User Experience Requirements
-## Decompose your proposed solution from Milestone 2 into related user stories.
+## User Experience Requirements
+### Decompose your proposed solution from Milestone 2 into related user stories.
 - As a student during the pandemic, I want to easily collaborate with other students on a digital whiteboard.
 - As a student, I want the digital whiteboard to be seamlessly integrated with the remote learning platform (ie. Zoom)
 - As a student, I want the flexibility to see who is contributing and edits others have made on the digital whiteboard in an easy to view/understand format.
@@ -12,7 +12,7 @@ layout: default
 - As a remote instructor, I want to easily change between a digital whiteboard and an alternate presentation so that students remain engaged and there is little downtime to switch applications during valuable class time.
 - As a remote instructor, I want students to easily be able to show/submit work done on the digital whiteboard so that the class feels more interactive and collaborative.
 
-## Which user stories are most relevant to your proposed solution and why? 
+### Which user stories are most relevant to your proposed solution and why? 
 - **“As a student, I want the digital whiteboard to be seamlessly integrated with the remote learning platform (ie. Zoom)”**: The most relevant user stories will be the most broad of the stories as they demonstrate the overall need for our proposed solution of creating a better integrated digital whiteboard feature within the digital learning platforms. This user story places emphasis that our solution must focus on the integration aspect; it cannot simply be a good application/feature, it must incorporate itself well inside its parent environment.
 - **“As a professional, I want to be able to host brainstorming whiteboard sessions with my team and then be able to export the information in an easy to distribute format.”**: This user story is very relevant to our solution, because the ability to collaborate in a workplace where brainstorming is a large part of day to day operation, as well as distribute those sessions to others that greatly increases the value of our proposed solution. This functionality opens up demand for our solution not just in classroom settings, but also in the professional workplace.
 

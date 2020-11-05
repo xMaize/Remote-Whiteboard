@@ -54,6 +54,8 @@ Our group chose alternative design 3. This is because it is the design that fits
 
 [Adobe XD Link](https://xd.adobe.com/view/39ad356e-5a04-4643-8dba-48ff17ab6c18-6cfe/)
 
+[Milestone 3 Mockup Download](./Milestone3Mockup.xd)
+
 ## Summary Video
 
 [Home](./index.html)

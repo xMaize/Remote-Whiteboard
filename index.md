@@ -11,3 +11,4 @@ The problem we are hoping to improve involves collaboration through zoom regardi
 
 ## Milestone Links
 - [Milestone 2](./Milestone2.html)
+- [Milestone 3](./Milestone3.html)

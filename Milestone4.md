@@ -59,4 +59,9 @@ Because the digital whiteboard is being improved, it is important that all user 
 ### Summary Video
 [Link to Summary Video](https://www.youtube.com/watch?v=Ht64sFMUfy0&feature=youtu.be)
 
+## Fair Use Notice
+This work may contain copyrighted material, the use of which may not have specifically authorized by the copyright owner. This material is available in an effort to explain material relevant to students studying Human-Computer Interaction (HCI), User Experience (UX), and User Interfaces (UIs) or to illustrate the use and benefits of related tools. The material contained in this website is distributed without profit for research and educational purposes. Only small portions of the original work are being used and those could not be used easily to duplicate the original work.
+
+This should constitute a ‘fair use’ of any such copyrighted material (referenced and provided for in section 107 of the US Copyright Law). If you wish to use any copyrighted material from this site for purposes of your own that go beyond ‘fair use’, you must obtain expressed permission from the copyright owner.
+
 [Home](./index.html)

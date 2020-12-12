@@ -26,6 +26,8 @@ Demo 3 Associated User Stories:
 2. As a professional, I want to be able to control viewing and editing permissions.
 3. As a professional, I want increased functionality such as uploading attachments.
 
+[Link to Demo 3 Video](https://www.youtube.com/watch?v=5DDmSC7f5m4&feature=youtu.be)
+
 ## Testing Protocol
 ### Research Question
 With the increase in virtual learning, does our prototype for an improved Zoom whiteboard incite usability and is it better equipped to handle many different kinds of users?
